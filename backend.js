@@ -97,14 +97,14 @@ const maxSubArray = (...nums) => {
 
   const  getmessagesfromDB = () => {
 
-    
+
 
     return  [{
         name: "anwar",
         phone: "20003232323"
     },
     {
-        name: "anwar",
+        name: "Rizwan",
         phone: "20003232323"
     },
     {
